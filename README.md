@@ -61,4 +61,4 @@ The project is complete
 
 
 ## License
-The source code for the site is licensed under the MIT license
+The source code for the site is licensed under the [MIT license](LICENSE)
