@@ -3,7 +3,7 @@
  * -RESISTOR_VALUE   ---> Resistor value in Ohm
  * -bitDigitalPins[]   ---> digital pins that write the value
  * -bitAnalogPins[]   ---> analog pins that read the charge
- * -writeValues[]   ---> The value you want to write
+ * -writeValues[]   ---> The values you want to write
  * -bits[x]   ---> x is the number of bits in your configuration
  */
 
