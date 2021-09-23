@@ -1,5 +1,5 @@
 # RAM-with-Arduino
-> Create your RAM with basics components and yout Arduino
+> Create your RAM with basics components and your Arduino
 
 ## Table of Contents
 * [General Information](#general-information)
@@ -12,7 +12,7 @@
 
 
 ## General Information
-Following the schematic in the pdf file you can create your RAM using only capacitors and resistors. The Arduino is the brain of the project and its role is to write, read and refresh the data in your RAM. With the help of a button, you can also read the content of your RAM on the serial monitor of the Arduino IDE.
+Following the schematic in the [pdf file](Schematic.pdf) you can create your RAM using only capacitors and resistors. The Arduino is the brain of the project and its role is to write, read and refresh the data in your RAM. With the help of a button, you can also read the content of your RAM on the serial monitor of the Arduino IDE.
 
 
 ## Technologies Used
@@ -33,7 +33,7 @@ Following the schematic in the pdf file you can create your RAM using only capac
 
 ## Setup
 - Choose your Arduino Board of choice
-- Create the circuit described in the pdf file
+- Create the circuit described in the [pdf file](Schematic.pdf)
 - Upload the code to your Arduino
 
 
@@ -52,6 +52,8 @@ If you decide to change these things, you will also need to change them in the c
 `int writeValues[] = {1, 0, 1};  ---> The values you want to write`
 
 `BitHandler bits[3];   ---> The number of bits in your configuration`
+
+You can also find an example on how to do something more with you RAM in the [RAM-example folder](RAM-example) where the script writes something new in the RAM every 5 seconds after checking that the RAM contains the correct informations
 
 
 ## Project Status
