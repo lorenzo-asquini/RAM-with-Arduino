@@ -12,7 +12,7 @@
 
 
 ## General Information
-Following the schematic in the [pdf file](Schematic.pdf) you can create your RAM using only capacitors and resistors. The Arduino is the brain of the project and its role is to write, read and refresh the data in your RAM. With the help of a button, you can also read the content of your RAM on the serial monitor of the Arduino IDE.
+Following the [schematic](Schematic.pdf) you can create your RAM using only capacitors and resistors. The Arduino is the brain of the project and its role is to write, read and refresh the data in your RAM. With the help of a button, you can also read the content of your RAM on the serial monitor of the Arduino IDE.
 
 
 ## Technologies Used
@@ -33,7 +33,7 @@ Following the schematic in the [pdf file](Schematic.pdf) you can create your RAM
 
 ## Setup
 - Choose your Arduino Board of choice
-- Create the circuit described in the [pdf file](Schematic.pdf)
+- Create the circuit described in the [schematic](Schematic.pdf)
 - Upload the code to your Arduino
 
 
