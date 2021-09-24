@@ -3,7 +3,7 @@
 
 ## Table of Contents
 * [General Information](#general-information)
-* [Technologies Used](#technologies-used)
+* [Technologies And Materials Used](#technologies-and-materials-used)
 * [Features](#features)
 * [Setup](#setup)
 * [Usage](#usage)
@@ -15,7 +15,7 @@
 Following the [schematic](Schematic.pdf) you can create your RAM using only capacitors and resistors. The Arduino is the brain of the project and its role is to write, read and refresh the data in your RAM. With the help of a button, you can also read the content of your RAM on the serial monitor of the Arduino IDE.
 
 
-## Technologies Used
+## Technologies And Materials Used
 - Arduino IDE - version 1.8.16
 - Arduino UNO - Rev3
 - Capacitors - 10μF
