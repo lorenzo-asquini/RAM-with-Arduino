@@ -53,7 +53,7 @@ If you decide to change these things, you will also need to change them in the c
 
 `BitHandler bits[3];   ---> The number of bits in your configuration`
 
-You can also find an example on how to do something more with you RAM in the [RAM-example folder](RAM-example) where the script writes something new in the RAM every 5 seconds after checking that the RAM contains the correct informations
+You can also find an example on how to do something more with you RAM in the [RAM-Example folder](RAM-Example) where the script writes something new in the RAM every 5 seconds after checking that the RAM contains the correct informations
 
 
 ## Project Status
