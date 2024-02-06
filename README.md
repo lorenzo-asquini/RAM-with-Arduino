@@ -1,5 +1,5 @@
 # RAM-with-Arduino
-> Create your RAM with basics components and your Arduino
+> Create your RAM with basic components and your Arduino.
 
 ## Table of Contents
 * [General Information](#general-information)
